@@ -59,7 +59,7 @@ The dashboard includes a dynamic *Points Table* for each selected season display
 🛠️ Tech Stack Used
 Business Intelligence Tool: Power BI Desktop
 Data Transformation: Power Query
- Modeling & Calculations: DAX (Data Analysis Expressions)
+ Modeling & Calculations: DAX (Data Analysis Express
 
  🔗 Screenshots / Demos
 Show what the dashboard looks like.
