@@ -63,4 +63,5 @@ Data Transformation: Power Query
 
  🔗 Screenshots / Demos
 Show what the dashboard looks like.
-Example: https://github.com/kunalgurav45/IPL-Analytics-Dashboard-using-Power-BI/blob/main/IPL%20Analytics%20Dashboard%20using%20Power%20BI.png
+Example: ![Dashboard Preview](IPL%20Analytics%20Dashboard%20using%20Power%20BI.png
+)
